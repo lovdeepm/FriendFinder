@@ -1,1 +1,2 @@
 # FriendFinder
+A dating app that compares the current user to the users already in an array and computes who is the best match for the individual, then displaying the results in a modal box.  This app is a full-stack application, utilizing express and node.js to create.
