@@ -3,7 +3,7 @@
 var friendsArray = [
     {
         name: "Ahmed",
-        photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        photo: "https://picsum.photos/200/300/?random",
         scores: [
             5,
             1,
@@ -19,7 +19,7 @@ var friendsArray = [
       },
       {
         name:"Matt",
-        photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        photo:"https://picsum.photos/200/300/?random",
         scores:[
             3,
             1,
@@ -35,7 +35,7 @@ var friendsArray = [
       },
       {
         name:"Kyle",
-        photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        photo:"https://picsum.photos/200/300/?random",
         scores:[
             3,
             5,
@@ -51,7 +51,7 @@ var friendsArray = [
       },
       {
         name:"Marvin",
-        photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        photo:"https://picsum.photos/200/300/?random",
         scores:[
             2,
             1,
@@ -67,7 +67,7 @@ var friendsArray = [
       },
       {
         name:"Kate",
-        photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        photo:"https://picsum.photos/200/300/?random",
         scores:[
             5,
             5,
@@ -83,7 +83,7 @@ var friendsArray = [
       },
       {
         name:"Jason",
-        photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        photo:"https://picsum.photos/200/300/?random",
         scores:[
             5,
             4,
